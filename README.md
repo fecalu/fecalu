@@ -1,6 +1,6 @@
-# 👩🏻‍💻 João Felipe
+# 🧑🏻‍💻 João Felipe
 
-**`Desenvolvedor back-end`**
+**`Desenvolvedoro back-end`**
 
 Me chamo João Felipe, tenho 28 anos e sou natural de São Luís, Maranhão. Atualmente, estou cursando Sistemas de Informação na faculdade Santa Terezinha (CEST), com previsão de conclusão no final de 2025. Desde sempre, sou apaixonado por tecnologia e, ao longo dos anos, desenvolvi uma grande afinidade com a linguagem Java.
 
