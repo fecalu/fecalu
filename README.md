@@ -7,6 +7,13 @@ Me chamo João Felipe, tenho 28 anos e sou natural de São Luís, Maranhão. Atu
 Estou sempre buscando me aprimorar, e compartilho meu aprendizado através de projetos e código aberto, com o objetivo de ajudar outras pessoas na jornada do desenvolvimento. Acredito que compartilhar conhecimento é uma das melhores formas de aprender.
 
 <p align="left">
+<a href="https://github.com/fecalu?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador"
+        />
+    </a>
     <a href="https://github.com/fecalu?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
