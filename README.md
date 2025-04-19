@@ -8,10 +8,9 @@ Estou sempre buscando me aprimorar, e compartilho meu aprendizado através de pr
 
 <p align="left">
 <a href="https://github.com/fecalu?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador"
+        <img  
+            title="Me siga no Insta" 
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joaofelipe.dev"
         />
     </a>
     <a href="https://github.com/fecalu?tab=repositories&sort=stargazers">
