@@ -10,7 +10,7 @@ Estou sempre buscando me aprimorar, e compartilho meu aprendizado através de pr
 <a href="https://github.com/fecalu?tab=followers">
         <img  
             title="Me siga no Insta" 
-            <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
         />
     </a>
     <a href="https://github.com/fecalu?tab=repositories&sort=stargazers">
